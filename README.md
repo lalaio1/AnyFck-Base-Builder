@@ -1,5 +1,6 @@
 # 🎉 Welcome to the Builder Tool! 🎉
 
+![1](./1.jpg)
 The Builder Tool is designed to simplify your configuration management process, making it easy to create and maintain your setup.
 
 ## 🚀 Features
